@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myBatis2" />
+        <module name="springmember" />
+        <module name="myBatis1" />
+        <module name="spring-board" />
+        <module name="di-exam" />
+        <module name="spring-web-MVC" />
+        <module name="ch07" />
+        <module name="restapi1" />
+        <module name="springboard" />
+        <module name="sboard" />
+        <module name="restapi2" />
+        <module name="mailTest" />
+        <module name="navermail" />
+        <module name="spring-board-mybatis-with-interface" />
+        <module name="security1" />
+        <module name="board1" />
+        <module name="webSock" />
+        <module name="hello" />
+        <module name="springmapper" />
+        <module name="myBatis3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mailTest (1)" target="11" />
+      <module name="mailTest (2)" target="11" />
+      <module name="spring-board (1)" target="11" />
+      <module name="spring-board (2)" target="11" />
+      <module name="spring-web-mvc" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="board1" options="-Xlint:all" />
+      <module name="ch07" options="-Xlint:all" />
+      <module name="hello" options="-Xlint:all" />
+      <module name="mailTest" options="-Xlint:all" />
+      <module name="mailTest (1)" options="-Xlint:all" />
+      <module name="mailTest (2)" options="-Xlint:all" />
+      <module name="myBatis1" options="-Xlint:all" />
+      <module name="myBatis2" options="-Xlint:all" />
+      <module name="myBatis3" options="-Xlint:all" />
+      <module name="navermail" options="-Xlint:all" />
+      <module name="restapi1" options="-Xlint:all" />
+      <module name="restapi2" options="-Xlint:all" />
+      <module name="sboard" options="-Xlint:all" />
+      <module name="security1" options="-Xlint:all" />
+      <module name="spring-board" options="-Xlint:all" />
+      <module name="spring-board (1)" options="-Xlint:all" />
+      <module name="spring-board (2)" options="-Xlint:all" />
+      <module name="spring-board-mybatis-with-interface" options="-Xlint:all" />
+      <module name="springboard" options="-Xlint:all" />
+      <module name="springmapper" options="-Xlint:all" />
+      <module name="springmember" options="-Xlint:all" />
+      <module name="webSock" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

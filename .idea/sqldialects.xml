@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/board1/src/main/resources/sql/Board.xml" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/springboard/src/main/webapp/sql/board53.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/springmember/src/main/webapp/sql/join_member.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>

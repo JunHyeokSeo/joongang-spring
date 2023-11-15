@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/di-exam/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatis1/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/myBatis3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-board/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-board-mybatis-with-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springmapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mailTest/pom.xml" />
+        <option value="$PROJECT_DIR$/navermail/pom.xml" />
+        <option value="$PROJECT_DIR$/springmember/pom.xml" />
+        <option value="$PROJECT_DIR$/board1/pom.xml" />
+        <option value="$PROJECT_DIR$/sboard/pom.xml" />
+        <option value="$PROJECT_DIR$/restapi1/pom.xml" />
+        <option value="$PROJECT_DIR$/restapi2/pom.xml" />
+        <option value="$PROJECT_DIR$/webSock/pom.xml" />
+        <option value="$PROJECT_DIR$/security1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-web-mvc/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

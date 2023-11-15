@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean id="mb" class="sample09.MessageBeanImpl">
+		<property name="name" value="서준혁"></property>
+		<property name="greet" value="Hello !"></property>
+		<!--ref : 다른 Bean 객체를 참조할 때 사용, 의존관계 주입 (다른 Bean의 id를 ref 값으로 입력)-->
+		<property name="output" ref="out"></property>
+	</bean>
+	<bean id="out" class="sample09.FileOutputer">
+		<property name="fileName" value="test.txt"></property>
+	</bean>
+	
+</beans>

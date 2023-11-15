@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans12.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans15.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans07.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans02.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans08.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans09.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans16.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans11.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans01.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans10.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans13.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans17.xml</file>
+          <file>file://$MODULE_DIR$/di-exam/src/main/resources/beans14.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>

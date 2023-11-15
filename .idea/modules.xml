@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/board1/board1.iml" filepath="$PROJECT_DIR$/board1/board1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07/ch07.iml" filepath="$PROJECT_DIR$/ch07/ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/di-exam.iml" filepath="$PROJECT_DIR$/di-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailTest/mailTest.iml" filepath="$PROJECT_DIR$/mailTest/mailTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis1/myBatis1.iml" filepath="$PROJECT_DIR$/myBatis1/myBatis1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis2/myBatis2.iml" filepath="$PROJECT_DIR$/myBatis2/myBatis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis3/myBatis3.iml" filepath="$PROJECT_DIR$/myBatis3/myBatis3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navermail/navermail.iml" filepath="$PROJECT_DIR$/navermail/navermail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restapi1/restapi1.iml" filepath="$PROJECT_DIR$/restapi1/restapi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restapi2/restapi2.iml" filepath="$PROJECT_DIR$/restapi2/restapi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboard/sboard.iml" filepath="$PROJECT_DIR$/sboard/sboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security1/security1.iml" filepath="$PROJECT_DIR$/security1/security1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-board/spring-board.iml" filepath="$PROJECT_DIR$/spring-board/spring-board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-board-mybatis-with-interface/spring-board-mybatis-with-interface.iml" filepath="$PROJECT_DIR$/spring-board-mybatis-with-interface/spring-board-mybatis-with-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-MVC.iml" filepath="$PROJECT_DIR$/spring-web-MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboard/springboard.iml" filepath="$PROJECT_DIR$/springboard/springboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmapper/springmapper.iml" filepath="$PROJECT_DIR$/springmapper/springmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmember/springmember.iml" filepath="$PROJECT_DIR$/springmember/springmember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSock/webSock.iml" filepath="$PROJECT_DIR$/webSock/webSock.iml" />
+    </modules>
+  </component>
+</project>
